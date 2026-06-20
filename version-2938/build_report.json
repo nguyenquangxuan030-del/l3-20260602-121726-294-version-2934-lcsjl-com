@@ -1,0 +1,26 @@
+{
+  "html_files": 2014,
+  "detail_files": 2000,
+  "expected_movies": 2000,
+  "category_card_count": 2000,
+  "hmt_missing": [],
+  "player_missing_count": 0,
+  "player_missing_examples": [],
+  "movie_count": 2000,
+  "video_source_count": 20,
+  "channels": {
+    "category-01": 200,
+    "category-02": 200,
+    "category-03": 200,
+    "category-04": 200,
+    "category-05": 200,
+    "category-06": 200,
+    "category-07": 200,
+    "category-08": 200,
+    "category-09": 200,
+    "category-10": 200
+  },
+  "cover_rule": "X = ((N - 1) % 150) + 1",
+  "logo": "最新亚洲视频",
+  "site_title": "最新亚洲视频-最新视频片库-分类内容持续更新"
+}
